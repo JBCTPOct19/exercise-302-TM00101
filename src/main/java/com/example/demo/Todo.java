@@ -23,7 +23,6 @@ public class Todo {
     @NotNull
     private int priority;
 
-
     public long getId() {
         return id;
     }
@@ -56,3 +55,4 @@ public class Todo {
         this.priority = priority;
     }
 }
+
